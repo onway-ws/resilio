@@ -19,17 +19,6 @@
       "use_sync_trash" : true,
       "overwrite_changes" : true,
       "known_hosts" : [ ]
-    },
-    {
-      "secret" : "__SECRET_KEY_F2__",
-      "dir" : "__F2__",
-      "use_relay_server" : true,
-      "use_tracker" : true,
-      "use_dht" : false,
-      "search_lan" : true,
-      "use_sync_trash" : true,
-      "overwrite_changes" : false,
-      "known_hosts" : [ ]
     }
   ]
 }
